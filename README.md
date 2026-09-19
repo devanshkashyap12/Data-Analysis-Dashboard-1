@@ -17,7 +17,7 @@ The main objective of this project is to analyze Netflix’s movies and TV shows
 -What is the distribution of Netflix content across different countries?   
 -Which genres are most common among Netflix titles?
 
--Dashboard Interaction <a href="">View Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/devanshkashyap12/Data-Analysis-Dashboard-1/blob/main/Dashboard%20Image.png">View Dashboard</a>
 
 ##Process  
 -Verify data for missing values and anomalies, and resolve any issues.   
