@@ -4,7 +4,7 @@
 The main objective of this project is to analyze Netflix’s movies and TV shows data using Excel and create an interactive dashboard that provides useful insights about the Netflix content.
 
 ## Dataset used  
-- <a href="https://github.com/devanshkashyap12/Data-Analysis-Dashboard/blob/main/Data%20Analysis%20dashboard.xlsx">Netflix-Dataset</a>
+- <a href="https://github.com/devanshkashyap12/Data-Analysis-Dashboard-1/blob/main/netflix%20dashboard.xlsx">Netflix-Dataset</a>
 
 ## Questions (KPI)
 -How many total movies and TV shows are in the dataset?  
